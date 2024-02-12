@@ -7,7 +7,6 @@ Projeto de Infraestrutura como código para auxiliar o Curso de testes de carga 
 
   
 ## ✔️ Técnicas e tecnologias utilizadas
-## teste
   
 
 Neste App são exploradas as seguintes técnicas e tecnologias:
