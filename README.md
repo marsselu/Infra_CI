@@ -6,7 +6,7 @@
 Projeto de Infraestrutura como código para auxiliar o Curso de testes de carga de CI/CD
 
   
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e tecnologias utilizadas ----
   
 
 Neste App são exploradas as seguintes técnicas e tecnologias:
